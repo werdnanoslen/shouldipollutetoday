@@ -1,0 +1,27 @@
+{
+    "name": "Should I Pollute Today?",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Calculates how much you pollute on your daily commute",
+    "background": {
+        "page": "background.html"
+    },
+    "browser_action": {
+        "name": "Calculate",
+        "icons": ["icon.png"],
+        "default_icon": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "zepto.min.js",
+                "background.js"
+            ],
+            "css": ["customStyles.css"],
+            "matches": [
+                "http://www.google.com/maps/*",
+                "https://www.google.com/maps/*"
+            ]
+        }
+    ]
+}
