@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0865431e-8c2d-49dd-9bbe-cafaed71cd25" name="Default" comment="" />
+    <list default="true" id="0865431e-8c2d-49dd-9bbe-cafaed71cd25" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\hooks\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\hooks\after_prepare\010_add_platform_class.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\ionic.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\scss\ionic.app.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\img\ionic.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\js\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\js\controllers.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\js\services.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\css\ionic.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\css\ionic.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\fonts\ionicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\fonts\ionicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\fonts\ionicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\fonts\ionicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular-ui\angular-ui-router.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular-ui\angular-ui-router.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular-animate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\angular\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\ionic-angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\ionic-angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\ionic.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\ionic.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\ionic.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\js\ionic.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_action-sheet.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_backdrop.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_button-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_button.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_checkbox.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_form.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_items.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_loading.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_menu.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_platform.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_popover.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_popup.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_radio.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_range.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_refresher.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_select.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_slide-box.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_spinner.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_tabs.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_toggle.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_util.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\ionic.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\ionicons\_ionicons-font.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\ionicons\_ionicons-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\ionicons\_ionicons-variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\scss\ionicons\ionicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\lib\ionic\version.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\templates\chat-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\templates\tab-account.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\templates\tab-chats.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\templates\tab-dash.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\shouldipollutetoday\www\templates\tabs.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="shouldipollutetoday.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +100,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="shouldipollutetoday" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.020191286">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -35,14 +121,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-      </GulpfileState>
-    </gulpfiles>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -96,20 +185,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shouldipollutetoday" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shouldipollutetoday" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -139,6 +214,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -162,10 +238,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.020191286">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding />
         </state>
       </provider>
